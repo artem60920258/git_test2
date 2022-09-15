@@ -1,1 +1,1 @@
-document.body.innerHTML = '<h1>Hello motherfucker</h1>'
+//document.body.innerHTML = '<h1>Hello motherfucker</h1>'
